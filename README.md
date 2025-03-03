@@ -11,7 +11,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cotty2&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cotty2&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
 </p>
   
 ![snake gif](https://github.com/Cotty2/Cotty2/blob/output/github-snake-dark.svg)
